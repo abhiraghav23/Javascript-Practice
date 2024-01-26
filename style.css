@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#logo{
+  
+    margin-top: 5px;
+    font-size: 25px;
+    color: #f08804;
+    text-decoration: none;
+}
+.nav{
+    padding-top: 5px;
+    background-color: #0f1111;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+ 
+}
+button{
+   background-color:  #f08804;
+}
+a{
+    margin-right: 180px;
+    text-decoration: none;
+    color: aliceblue;
+}
+#foot{
+    padding-top: 50px;
+    background-color: #0f1111;
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
